@@ -45,8 +45,8 @@ Este repositorio contiene la estructura oficial de evidencias y documentación a
 │   │   └── PLANILLA DE EVALUACION FINAL FASE 2.xlsx
 │   └── Evidencias Proyecto/
 │       ├── Presentación Proyecto.pptx
-│       ├── Evidencias de documentación/
-│       └── Evidencias de sistema Aplicación Base de datos/
+│       ├── Evidencias de documentación
+│       └── Evidencias de sistema / Aplicación y Base de datos
 │
 ├── Fase 3/
 │   ├── Evidencias Individuales/
