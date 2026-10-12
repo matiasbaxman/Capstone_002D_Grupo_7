@@ -1,10 +1,10 @@
-# 🚗 Repositorio de Evidencias - Proyecto Capstone APT (Grupo 7)
+# Repositorio de Evidencias - Proyecto Capstone APT (Grupo 7)
 
 Este repositorio contiene la estructura oficial de evidencias y documentación académica para el desarrollo del proyecto **A&J Connect**, correspondiente a la asignatura de Capstone en **Duoc UC** (Sección 002D - Grupo 7).
 
 ---
 
-## 👥 Integrantes del Grupo 7
+## Integrantes del Grupo 7
 
 * **Benjamín Romero** — *Desarrollador Backend & Base de Datos*
 * **Benjamín Ojeda** — *Desarrollador Backend / Integraciones API*
@@ -12,7 +12,7 @@ Este repositorio contiene la estructura oficial de evidencias y documentación a
 
 ---
 
-## 🛠️ Tecnologías Aplicadas en la Solución
+## Tecnologías Aplicadas en la Solución
 
 * **Backend:** Django REST Framework (DRF), Python, SimpleJWT.
 * **Frontend:** React, Vite, Tailwind CSS, PWA (Progressive Web App).
@@ -21,7 +21,7 @@ Este repositorio contiene la estructura oficial de evidencias y documentación a
 
 ---
 
-## 📂 Estructura Oficial de Archivos y Evidencias
+## Estructura Oficial de Archivos y Evidencias
 
 ```text
 ├── Fase 1/
